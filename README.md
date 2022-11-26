@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Reznick3320
+- 👋 Hi, I’m Ruslan Reznick
 - 👀 I’m interested in fullstack development
-- 🌱 I'm learning programming language now Python
+- 🌱 I'm learning programming language now JavaScript
 - 💞️ I’m looking to collaborate on Telegram
 - 📫 How to reach me t.me/ruslan_reznick
 
